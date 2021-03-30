@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Happy%20developer&fontSize=90)
 
 - 👨‍🎓  kwangwoon Univ
+- 🎄 Naver Boost camper 
+- 🎈 Tmax developer
 <!--
 **mj950425/mj950425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
