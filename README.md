@@ -4,6 +4,9 @@
 - 🎄 ***Naver Boost camper***
 - 🎈 ***Tmax developer***
 - 👔 ***Posco ai bigdata Trainee***
+- ***[📗 Blog](https://minjoon950425.tistory.com/manage)***
+- ***[🤩 instargram](https://www.instagram.com/minjoon1995/)***
+
 <!--
 **mj950425/mj950425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
