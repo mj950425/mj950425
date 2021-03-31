@@ -3,7 +3,7 @@
 - 👨‍🎓  ***kwangwoon Univ***
 - 🎄 ***Naver Boost camper***
 - 🎈 ***Tmax developer***
-- 👔 ***Posco ai bigdata Trainee***
+- 👔 ***Posco ai bigdata Graduate***
 - ***[📗 Blog](https://minjoon950425.tistory.com/manage)***
 - ***[🤩 instargram](https://www.instagram.com/minjoon1995/)***
 
