@@ -6,6 +6,8 @@
 - 👔 ***Posco ai bigdata Graduate***
 - ***[📗 Blog](https://minjoon950425.tistory.com/manage)***
 - ***[🤩 instargram](https://www.instagram.com/minjoon1995/)***
+- ***[📺 paper review youtube](https://www.youtube.com/channel/UCDg1jUw5sz4JB0G_4cJmNAg)***
+
 
 <!--
 **mj950425/mj950425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
