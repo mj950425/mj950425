@@ -23,3 +23,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</p>
+<p align='center'>
+<br></br>
+
+<h3 align='center'>🛠 Tech Stack 🛠</h3>
+
+<p align='center' font-weight='bold'> Techs that I've used at least once.</p>
+<p align='center'>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white">  
+<img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=Pytorch&logoColor=white"> 
+<img src="https://img.shields.io/badge/Numpy-1E8449?style=flat&logo=Numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-FF8C0A?style=flat&logo=Pandas&logoColor=white">
+<img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
+<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/tibero-FF8C0A?style=flat&logo=&logoColor=red">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+
+</p>
+<br></br>
+
+<h3 align="center">📞 Contact Me 📞</h3>
+<p align="center">
+  <a href="minjoon1995@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+</p>
