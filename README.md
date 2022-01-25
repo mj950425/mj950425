@@ -34,11 +34,7 @@ Here are some ideas to get you started:
 <p align='center'>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white">  
 <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
-<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/tibero-FF8C0A?style=flat&logo=&logoColor=red">
-<img src="https://img.shields.io/badge/swagger-FF8C0A?style=flat&logo=&logoColor=red">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
 
 </p>
 <br></br>
