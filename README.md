@@ -4,7 +4,7 @@
 - 🎄 ***Naver Boost camper***
 - 🎈 ***Tmax developer***
 - 👔 ***Posco ai bigdata Graduate***
-- ***[📗 Blog](https://minjoon950425.tistory.com/)***
+- ***[📗 Blog](https://mj950425.github.io/)***
 - ***[🤩 instargram](https://www.instagram.com/minjoon1995/)***
 - ***[📺 paper review youtube](https://www.youtube.com/channel/UCDg1jUw5sz4JB0G_4cJmNAg)***
 
