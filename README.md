@@ -1,13 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Happy%20developer%20😄&fontSize=80)
 
-- 👨‍🎓  ***kwangwoon Univ***
-- 🎄 ***Naver Boost camper***
-- 🎈 ***Tmax developer***
-- 👔 ***Posco ai bigdata Graduate***
-- ***[📗 Blog](https://mj950425.github.io/)***
-- ***[🤩 instargram](https://www.instagram.com/minjoon1995/)***
-- ***[📺 paper review youtube](https://www.youtube.com/channel/UCDg1jUw5sz4JB0G_4cJmNAg)***
 
+- ***[📗 Blog](https://mj950425.github.io/)***
 
 <!--
 **mj950425/mj950425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
