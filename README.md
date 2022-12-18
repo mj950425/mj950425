@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Happy%20developer%20😄&fontSize=80)
 
 
-- ***[📗 Blog](https://mj950425.github.io/)***
+- ***[📗 Blog](https://minjoon950425.tistory.com/)***
 
 <!--
 **mj950425/mj950425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
