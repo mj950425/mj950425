@@ -2,6 +2,7 @@
 
 
 - ***[📗 Blog](https://minjoon950425.tistory.com/)***
+- ***[📕 Notion](https://minjoon950425.tistory.com/)***
 
 <!--
 **mj950425/mj950425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
