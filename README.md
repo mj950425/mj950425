@@ -2,7 +2,6 @@
 
 
 - ***[📗 Blog](https://minjoon950425.tistory.com/)***
-- ***[📕 Notion](https://minjoon950425.tistory.com/)***
 
 <!--
 **mj950425/mj950425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +26,6 @@ Here are some ideas to get you started:
 
 <p align='center' font-weight='bold'> Techs that I've used at least once.</p>
 <p align='center'>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white">  
 <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
 
