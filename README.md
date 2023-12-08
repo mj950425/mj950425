@@ -2,7 +2,7 @@
 
 백앤드 개발자 이민준입니다
 
-[여기](https://mj950425.github.io/) 또는 [여기](https://minjoon950425.tistory.com/)에서 공부하고 있어요
+[여기](https://mj950425.github.io/)에서 공부하고 있어요
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mj950425)](https://github.com/anuraghazra/github-readme-stats)
